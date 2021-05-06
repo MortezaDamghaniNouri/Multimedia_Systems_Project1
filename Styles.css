@@ -1,0 +1,86 @@
+body {
+    background-image: url("Background_Image.jpg");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    display: flex;
+    align-items: center;
+
+
+
+
+}
+
+
+
+
+
+
+#main_image {
+    display: block;
+    width: 40%;
+    height: 80%;
+    margin-left: 2%;
+    margin-right: 6%;
+
+
+
+
+}
+
+#info_block {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 50%;
+    height: 80%;
+    overflow: scroll;
+    margin-right: 2%;
+    align-items: center;
+    border-style: solid;
+
+
+
+
+
+
+
+}
+
+.image {
+    display: block;
+    width: 90%;
+    height: 70%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 5%;
+
+}
+
+#main_video {
+    display: block;
+    width: 90%;
+    height: 70%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
